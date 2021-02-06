@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MrXujiang/MrXujiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 I am Xu Xiaoxi, currently focusing on front-end engineering and visualization research. The recently developed projects include:
 
 - [H5-Dooring | 让H5制作像搭积木一样简单](https://github.com/MrXujiang/h5-Dooring)
