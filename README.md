@@ -9,7 +9,4 @@ I am Xu Xiaoxi, currently focusing on front-end engineering and visualization re
 
 ### Skill description
 
-- 🔭 Javascript
-- 🌱 React
-- 👯 Vue
-- 🤔 NodeJS
+`Javascript`, `React`, `Vue`, `NodeJS`.
