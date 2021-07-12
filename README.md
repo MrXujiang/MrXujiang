@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="http://cdn.dooring.cn/dr/2.png" width=800 alt="H5-Dooring, 专注于可视化领域, 低代码领域的研究" />
+<img src="http://cdn.dooring.cn/dr/blog.png" width=800 alt="H5-Dooring, 专注于可视化领域, 低代码领域的研究" />
 
 I am Xu xiaoxi, currently focusing on front-end engineering and visualization research. The recently developed projects include:
 
