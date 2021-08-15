@@ -14,4 +14,4 @@ I am Xu xiaoxi, currently focusing on front-end engineering and visualization re
 
 `Javascript`, `React`, `Vue`, `NodeJS`.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrXujiang)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrXujiang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
