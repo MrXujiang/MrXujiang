@@ -18,5 +18,5 @@ I am Xu xiaoxi, currently focusing on front-end engineering and visualization re
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrXujiang&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/MrXujiang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
 </a>
