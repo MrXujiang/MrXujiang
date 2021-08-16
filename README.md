@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src="http://cdn.dooring.cn/dr/blog.png" width=800 alt="H5-Dooring, 专注于可视化领域, 低代码领域的研究" />
 
 I am Xu xiaoxi, currently focusing on front-end engineering and visualization research. The recently developed projects include:
 
@@ -9,6 +8,10 @@ I am Xu xiaoxi, currently focusing on front-end engineering and visualization re
 - [mitu-editor | 轻量级且可扩展的图片/图形编辑器解决方案](https://github.com/H5-Dooring/mitu-editor)
 - [simpleCMS | 强大的支持多皮肤的开源CMS博客系统](https://github.com/MrXujiang/simpleCMS)
 - [frontend-developer-roadmap | 大前端用不加班必备宝典](https://github.com/MrXujiang/frontend-developer-roadmap)
+
+|       |  | |
+| ----------- | ----------- |
+| [知乎](https://www.zhihu.com/people/build800) | [掘金](https://juejin.cn/user/3808363978429613/posts) | [低代码可视化专栏](http://mp.weixin.qq.com/mp/homepage?__biz=MzU2Mzk1NzkwOA==&hid=8&sn=4d65684bfea257971d8f798422b48085&scene=18#wechat_redirect)
 
 ### Skill description
 
