@@ -11,7 +11,7 @@ I am Xu xiaoxi, currently focusing on front-end engineering and visualization re
 - [frontend-developer-roadmap | 大前端用不加班必备宝典](https://github.com/MrXujiang/frontend-developer-roadmap)
 
 |      更多       |      关于      |      公众号      |      我      |
-| ----------- | ----------- |----------- |
+| ----------- | ----------- |----------- |----------- |
 | [知乎](https://www.zhihu.com/people/build800) | [掘金](https://juejin.cn/user/3808363978429613/posts) |   [趣谈前端](http://cdn.dooring.cn/dr/qtqd_code.png)   | [低代码可视化专栏](http://mp.weixin.qq.com/mp/homepage?__biz=MzU2Mzk1NzkwOA==&hid=8&sn=4d65684bfea257971d8f798422b48085&scene=18#wechat_redirect)
 
 ### Skill description
