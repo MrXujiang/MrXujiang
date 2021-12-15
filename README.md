@@ -8,6 +8,7 @@ I am Xu xiaoxi, currently focusing on front-end engineering and visualization re
 - [mitu-editor | 轻量级且可扩展的图片/图形编辑器解决方案](https://github.com/H5-Dooring/mitu-editor)
 - [LowCode可视化社区 | 分享国内外低代码可视化最佳实践](http://lowcode.dooring.cn)
 - [react-slider-vertify | 基于react实现的轻量级滑动验证码组件](https://github.com/MrXujiang/react-slider-vertify)
+- [xijs | 一款面向业务场景的开箱即用的js工具库](https://github.com/MrXujiang/xijs)
 
 |      更多       |      关于      |      公众号      |      我      |
 | ----------- | ----------- |----------- |----------- |
