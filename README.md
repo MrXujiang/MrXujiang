@@ -9,6 +9,7 @@ I am Xu xiaoxi, currently focusing on front-end engineering and visualization re
 - [LowCode可视化社区 | 分享国内外低代码可视化最佳实践](http://lowcode.dooring.cn)
 - [react-slider-vertify | 基于react实现的轻量级滑动验证码组件](https://github.com/MrXujiang/react-slider-vertify)
 - [xijs | 一款面向业务场景的开箱即用的js工具库](https://github.com/MrXujiang/xijs)
+- [react-cropper-pro | 轻量强大的图片上传/裁切/压缩组件](https://github.com/MrXujiang/react-cropper-pro)
 
 |      更多       |      关于      |      公众号      |     个人博客     |      我      |
 | ----------- | ----------- |----------- |----------- | ------------ |
